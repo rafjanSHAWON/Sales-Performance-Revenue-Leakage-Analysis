@@ -1,12 +1,13 @@
 📊 E-Commerce Sales & Customer Analytics (PostgreSQL)
-🧠 Project Overview
+
+🧠 Project Overview:
 
 This project focuses on transforming raw, messy e-commerce transactional data into actionable business insights using PostgreSQL.
 The analysis answers key business questions related to revenue growth, discount strategy, customer behavior, product performance, and regional sales trends.
 
 The goal is to demonstrate end-to-end analytical thinking — from data preparation to KPI design and insight generation — exactly how a Business Intelligence / Data Analyst works in real-world scenarios.
 
-🎯 Business Problem
+🎯 Business Problem:
 
 The business had access to order, customer, and product data but lacked clarity on:
 
@@ -20,7 +21,7 @@ How customer purchasing behavior impacts long-term growth
 
 Decision-makers needed reliable KPIs and insights to improve pricing, marketing, and sales strategy.
 
-🧩 Dataset Description
+🧩 Dataset Description:
 
 The analysis uses multiple related tables, including:
 
